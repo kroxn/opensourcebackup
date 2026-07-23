@@ -5291,7 +5291,7 @@ function gettable(p126)
 end
 
 t1.AutoFarmTab:Toggle({
-	Title = "Enable Auto Farm",
+	Title = "Enable Auto Farm ( !!! SUMMER UPDATE !!! )",
 	Default = Config.CoinFarm2.State,
 	Callback = function(p127)
 		Config.CoinFarm2.State = p127
